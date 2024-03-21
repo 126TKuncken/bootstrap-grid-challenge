@@ -1,0 +1,11 @@
+.btn-primary{
+    background-color: #80ea99;
+    color: black;
+    font-weight:bold ;
+}
+
+.btn-secondary{
+    background-color:#8e7bff  ;
+    color:white ;
+    font-weight: bold;
+}
